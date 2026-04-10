@@ -143,7 +143,7 @@ We may update this policy from time to time. The "Last updated" date at the top 
 
 If you have questions about this privacy policy or your data:
 
-**Email**: [support@smooth-talker.app](mailto:support@smooth-talker.app)
+**Email**: [support@resila.ai](mailto:support@resila.ai)
 
 ---
 

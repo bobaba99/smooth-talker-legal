@@ -51,7 +51,7 @@ We may update these terms at any time. Continued use of Smooth Talker after chan
 
 ## 9. Contact
 
-Questions? Email [support@smooth-talker.app](mailto:support@smooth-talker.app).
+Questions? Email [support@resila.ai](mailto:support@resila.ai).
 
 ---
 
