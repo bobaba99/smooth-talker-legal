@@ -3,11 +3,11 @@ layout: default
 title: Privacy Policy
 ---
 
-# Smooth Talker — Privacy Policy
+# Suavi — Privacy Policy
 
-**Last updated: April 10, 2026**
+**Last updated: April 11, 2026**
 
-Smooth Talker is an iOS keyboard app that rewrites your draft messages to help you communicate more effectively across cultural and generational contexts. This policy explains what data we collect, how we use it, and your choices.
+Suavi is an iOS keyboard app that rewrites your draft messages to help you communicate more effectively across cultural and generational contexts. This policy explains what data we collect, how we use it, and your choices.
 
 ---
 
@@ -17,7 +17,7 @@ Smooth Talker is an iOS keyboard app that rewrites your draft messages to help y
 - We do **not** log keystrokes, track what you type, or access messages you don't explicitly send to us.
 - Your message text is sent to our server, processed by an AI model, and the rewrites are returned to you. We store the original text and rewrites so you can view your history. We do **not** use your messages to train AI models.
 - We use anonymous accounts by default — no email, no name, no phone number required.
-- You can delete your data at any time by signing out (Settings → Sign Out), which removes your account and all associated data.
+- You can **permanently delete your account and all data** at any time (Settings → Delete Account).
 
 ---
 
@@ -65,7 +65,7 @@ We do **not** use your data for advertising, profiling, or selling to third part
 
 ## 3. Third-party services
 
-We use the following third-party services to operate Smooth Talker:
+We use the following third-party services to operate Suavi:
 
 | Service | Purpose | Data shared | Location |
 |---|---|---|---|
@@ -112,7 +112,7 @@ To exercise any of these rights, contact us at the address below.
 
 ## 6. Keyboard extension and Full Access
 
-Smooth Talker uses a Custom Keyboard Extension that requires **Full Access** to function. Full Access is needed because:
+Suavi uses a Custom Keyboard Extension that requires **Full Access** to function. Full Access is needed because:
 
 - The keyboard must make network requests to our server to generate rewrites.
 - The keyboard must read the clipboard when you tap "+ context."
@@ -123,23 +123,45 @@ With Full Access enabled, iOS grants the keyboard extension the ability to acces
 - Access data from other apps
 - Send data anywhere other than our server when you tap "Smooth"
 
-You can revoke Full Access at any time in iOS Settings → General → Keyboard → Keyboards → Smooth Talker.
+You can revoke Full Access at any time in iOS Settings → General → Keyboard → Keyboards → Suavi.
 
 ---
 
-## 7. Children's privacy
+## 7. Conversation Analysis (premium feature)
 
-Smooth Talker is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with data, please contact us and we will delete it.
+Suavi's "Understand them" feature analyzes conversations to help you understand what the other person means, feels, and wants. Here's how data is handled:
+
+- **Your messages are never stored.** Conversation text you share for analysis is sent to our AI provider (Anthropic Claude) for processing and is **immediately discarded** after the response is returned. It is never written to our database, log files, or any persistent storage.
+- **Only a structured summary is saved.** The analysis result — containing inferred intent, emotion, and context (but **no message text**) — is stored in your account so you can reference it later.
+- **You can delete any analysis** from your account at any time.
+- **Anthropic does not store or train on API inputs.** See [Anthropic's data policy](https://www.anthropic.com/policies/privacy).
 
 ---
 
-## 8. Changes to this policy
+## 8. Account deletion
+
+You can permanently delete your account and all associated data at any time:
+
+1. Open Suavi → Settings → Delete Account
+2. Confirm the deletion
+
+This permanently removes your account, cultural profile, rewrite history, analysis summaries, and all usage data from our servers. This action cannot be undone.
+
+---
+
+## 9. Children's privacy
+
+Suavi is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with data, please contact us and we will delete it.
+
+---
+
+## 10. Changes to this policy
 
 We may update this policy from time to time. The "Last updated" date at the top will reflect the most recent revision. If we make material changes, we will notify you through the app.
 
 ---
 
-## 9. Contact us
+## 11. Contact us
 
 If you have questions about this privacy policy or your data:
 
@@ -147,4 +169,4 @@ If you have questions about this privacy policy or your data:
 
 ---
 
-*Smooth Talker is operated by Zihao Geng.*
+*Suavi is developed and operated by Zihao Geng.*
